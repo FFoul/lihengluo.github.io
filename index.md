@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a  student at ...
+<p>I am a 3<sup>rd</sup>-year undergraduate student majoring in <b>Data Science</b> in the School of Electronic and Information
+Engineering, Tongji University.</p>
 
 ## Research Interests
 
